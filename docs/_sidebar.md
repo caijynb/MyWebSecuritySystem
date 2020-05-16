@@ -2,7 +2,7 @@
 
   * [延时注入](SQLi/test.md)
 
-* [XSS](xss/readme.md)
+* [XSS](XSS/readme.md)
 
   
 
