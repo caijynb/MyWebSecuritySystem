@@ -1,8 +1,8 @@
-* [SQL注入](SQLi/)
+* [SQL注入](SQLi/readme.md)
 
   * [延时注入](SQLi/test.md)
 
-* [XSS](xss/)
+* [XSS](xss/readme.md)
 
   
 
